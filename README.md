@@ -9,7 +9,3 @@ Open `index.html` in a browser. The page uses root-relative paths (`/brand/...`)
 ```
 npx serve .
 ```
-
-## To do
-
-- Replace `[REGISTERED OFFICE ADDRESS]` in the footer with the address exactly as it appears on Companies House.
