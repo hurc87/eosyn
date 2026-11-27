@@ -6,6 +6,7 @@ The Eosyn studio website, [eosyn.co.uk](https://eosyn.co.uk). Plain static HTML 
 
 - `index.html`: the home page.
 - `privacy/index.html`: the privacy policy (eosyn.co.uk/privacy/).
+- `pharos/terms/index.html`: the Pharos terms of use (eosyn.co.uk/pharos/terms/).
 - `styles.css`: shared styles for every page.
 - `brand/`: logo and app icon SVGs. Favicons and the web manifest sit at the root.
 - `CNAME`: the custom domain for GitHub Pages.

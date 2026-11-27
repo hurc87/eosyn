@@ -9,7 +9,7 @@
 
 - What it is: the Eosyn studio website, eosyn.co.uk. Plain static HTML and CSS, with no build step and no framework.
 - Hosting: GitHub Pages, published from `main` (custom domain set in `CNAME`). Merging a pull request into `main` puts it live within a minute or two.
-- Pages: `index.html` (home) and `privacy/index.html` (privacy policy). Both use the shared `styles.css`.
+- Pages: `index.html` (home), `privacy/index.html` (privacy policy) and `pharos/terms/index.html` (Pharos terms of use). All use the shared `styles.css`.
 
 ## Project-specific notes
 

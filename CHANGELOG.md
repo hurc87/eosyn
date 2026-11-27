@@ -10,6 +10,7 @@ and this project uses [Semantic Versioning](https://semver.org/).
 ### Added
 - Privacy policy page at `/privacy/`, covering the website, emails to support and the Pharos app.
 - "Privacy" link in the footer of every page.
+- Pharos terms of use page at `/pharos/terms/`, linked from the footer of every page.
 - Project docs: `CLAUDE.md`, this changelog and `docs/build-journal.md`.
 
 ### Changed
